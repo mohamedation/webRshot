@@ -63,6 +63,10 @@ a {
     padding: 0 10px 0 10px;
 }
 @media screen and (max-width: 500px) {
+    .main-wrap {
+        justify-content: flex-start;
+        padding-top: 10%;
+    }
     .footer-wrap {
         height: 150px;
     }
