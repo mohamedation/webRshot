@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 7em;
+    color: #3FB8AF;
+    margin: 0 0px 10px 0;
+    text-shadow: 1px 1px 2px #174642;
+}
+h2 {
+    color: #7FC7AF;
+    text-shadow: 1px 1px 0px #549691;
+}
+
+a {
+    color: #FA6900;
+    text-decoration: none;
+}
+
+.wrapper {
+    height: 100vh;
+}
+
+
+.main-wrap {
+    background-color: #E0E4CC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.main-wrap .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-wrap {
+    background-color: #343838;
+    height: 5vh;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px 0px 2px #00000045;
+}
+@media screen and (max-width: 980px) {
+    .footer-wrap {
+        height: 8vh;
+    }
+}
+
+.footer-wrap .footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px 0 10px;
+}
+@media screen and (max-width: 500px) {
+    .footer-wrap {
+        height: 150px;
+    }
+    .footer-wrap .footer {
+        flex-direction: column;
+    }
+    .footer-wrap .footer .seperator{
+        display: none;
+    }
+}
+.footer-wrap .footer p {
+    color: white;
+    font-size: 0.9em;
+}
+
+.footer-wrap .footer img {
+    height: 35px;
+}
+.footer-wrap .footer .seperator{
+    border-right: 1px dashed white;
+    height: 1em;
+    margin: 0 10px 0 10px;
+}
+
+
+button{
+    display:inline-block;
+    padding:0.5em 0.5em;
+    border:0.1em solid #F38630;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-size: 3em;
+    color:#373B44;
+    background-color: #F38630;
+    text-align:center;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+button:hover{
+    color:#ffffff;
+    background-color:#FA6900;
+    border:0.1em solid #FA6900;
+}
+@media all and (max-width:30em){
+    button{
+        display:block;
+        margin:0.4em auto;
+    }
+}
