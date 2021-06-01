@@ -131,6 +131,9 @@ var siteList = [
     "https://agar.io/",
     "http://www.yournameingum.com/",
     "http://randomcolour.com/",
+    "https://randomsong.net/",
+    "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+    
     
 
 
