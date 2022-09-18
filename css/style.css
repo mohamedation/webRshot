@@ -14,8 +14,24 @@ h2 {
     color: #7FC7AF;
     text-shadow: 1px 1px 0px #549691;
     padding: 0 10px 10px 10px;
+    font-size: 1.8em;
 }
-
+.shot {
+    animation-name: jump;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    display: inline-block;
+}
+@keyframes jump {
+    0% {transform: translateY(0);}
+    50% {transform: translateY(0);}
+    70% {transform: translateY(-10px); color: #F38630; text-shadow: 1px 1px 0px #d4742a;}
+    90% {transform: translateY(0);}
+    92% {transform: translateY(-1px);}
+    94% {transform: translateY(-2px);}
+    94% {transform: translateY(-1px);}
+    100% {transform: translateY(0);color: #7FC7AF; text-shadow: 1px 1px 0px #549691;}
+}
 a {
     color: #FA6900;
     text-decoration: none;
