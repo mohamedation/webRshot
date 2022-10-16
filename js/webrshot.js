@@ -67,15 +67,12 @@ var siteList = [
     "https://www.grimlondon.com/",
     "https://skyvector.com/",
     "https://openseadragon.github.io/openseadragonizer/?img=https://i.redd.it/siormkhv2zi01.jpg",
-    "https://listeningtogether.atspotify.com/",
-    "https://www.montereybayaquarium.org/animals/live-cams/open-sea-cam",
     "https://www.colourlovers.com/",
     "https://naturalhistory.si.edu/visit/virtual-tour",
     "https://linxspiration.com/",
     "https://www.last.fm/music/Deepak+Ram",
     "https://tabletopwhale.com/",
     "https://archive.fisheries.noaa.gov/afsc/News/Alaska-Marine-Mammal-Acoustic-Studies/index.html",
-    "https://trendshelp.com/",
     "https://www.photopea.com/",
     "https://eyes.nasa.gov/dsn/dsn.html",
     "https://eyes.nasa.gov/apps/orrery/#/home",
@@ -87,7 +84,6 @@ var siteList = [
     "https://pixelcraft.web.app/",
     "https://squoosh.app/",
     "https://flowchart.fun/",
-    "https://threatmap.checkpoint.com/",
     "https://mycolor.space/",
     "https://www.airtightinteractive.com/projects/synthcube/",
     "http://www.flashbynight.com/drench/",
@@ -106,7 +102,7 @@ var siteList = [
     "https://starwarsintrocreator.kassellabs.io/",
     "http://www.alcula.com/soroban.php",
     "https://www.mathematik.uni-marburg.de/~thormae/lectures/ti1/code/napierbones/napierbones.html",
-    "http://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html",
+    "https://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html",
     "https://www.sliderules.org/react/pickett_n600.html",
     "https://www.sliderules.org/react/aristo_0970_multilog.html",
     "https://www.sliderules.org/react/FlyingFish1003.html",
@@ -124,21 +120,11 @@ var siteList = [
     "https://superformula.club/",
     "https://www.templatemaker.nl/en/",
     "https://fio4ri.github.io/FavoritePokemon/",
-    "http://ww3.safestyle-windows.co.uk/the-secret-door/",
     "https://www.montereybayaquarium.org/animals/live-cams/open-sea-cam/",
     "https://agar.io/",
-    "http://www.yournameingum.com/",
     "http://randomcolour.com/",
-    "https://randomsong.net/",
     "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
-    "https://security-expert-name.com/",
     "https://bouncingdvdlogo.com/",
-    
-
-
-
-
-
 ];
 
 var sites;
