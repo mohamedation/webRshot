@@ -37,7 +37,7 @@ var siteList = [
     "https://bruh.io/",
     "https://compressor.io/",
     "https://photomosh.com/",
-    "https://beta.speedtest.net/",
+    "https://speedtest.net/",
     "https://walloftext.co/",
     "https://www.ted.com/",
     "https://www.wikihow.com/Main-Page",
